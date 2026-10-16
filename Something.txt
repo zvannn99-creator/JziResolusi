@@ -2,4 +2,4 @@
 -khatam CP
 -Ai engineer
 -Masuk Apple
--Kolaborasi dengan expert
+-Belajar networking
