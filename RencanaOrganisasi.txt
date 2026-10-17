@@ -2,7 +2,9 @@ Jozi rencana organisasi:
 1. Gamaforce
   * Long endurance 
       * Programmer
+      * Harus bisa 
 2. Data
 3. CP + Komatik
  * Belajar struktur data
     ^ Pendekatan CP
+    ^Container
