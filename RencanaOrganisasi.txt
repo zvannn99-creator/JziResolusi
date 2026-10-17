@@ -6,4 +6,5 @@ Jozi rencana organisasi:
 2. Data
 3. CP + Komatik
  * Belajar struktur data
+    ^ Pendekatan CP
     ^Container
