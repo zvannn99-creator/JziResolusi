@@ -4,3 +4,4 @@ Jozi rencana organisasi:
       * Programmer
 2. Data
 3. CP + Komatik
+ * Belajar struktur data
